@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+p, i{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.post{
+    background-color: white;
+    width: 550px;
+    height: auto;
+    justify-content: center;
+    margin: 30px auto;
+}
+
+.post-header{
+    display: flex;
+    padding: 5px 15px;
+    align-items: center;
+}
+
+.puntos{
+    margin-left: auto;
+}
+
+.post-icons{
+    display: flex;
+    padding: 5px;
+}
+
+.bookmark{
+    margin-left: auto;
+}
+
+.text{
+    padding: 10px;
+}
